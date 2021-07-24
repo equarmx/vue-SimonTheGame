@@ -1,3 +1,8 @@
+Deployed: 
+
+https://equarmx.github.io/vue-SimonTheGame/
+
+
 # vuesimonthegame
 
 ## Project setup
